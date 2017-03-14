@@ -25,3 +25,4 @@ for num in an_infinite_stream_of_random_names:
 - for streams where you need to keep track of the top-k
 - for a lfu cache-like things
 - inner torment
+- realtime wordclouds
